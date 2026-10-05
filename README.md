@@ -4,142 +4,346 @@
 
 ### Aspiring Data Analyst
 
-Turning data into clear insights through **Excel, SQL, Power BI, Python and Generative AI**
+**Excel • SQL • Power BI • Python • Generative AI**
 
-<p>
-  <a href="https://github.com/bharat-ram17">
-    <img src="https://img.shields.io/badge/GitHub-bharat--ram17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/bharat-ram-54b936390">
-    <img src="https://img.shields.io/badge/LinkedIn-Bharat%20Ram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:bharatramabcd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+Building practical data analytics projects focused on **analysis, visualization and business insights.**
+
+<br>
+
+<a href="https://github.com/bharat-ram17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bharat-ram-54b936390">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:bharatramabcd@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### DATA ANALYTICS • BUSINESS INSIGHTS • VISUALIZATION
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 👋 About Me
+
+I am an **Aspiring Data Analyst** building a career in data analytics with a strong interest in turning data into meaningful insights.
+
+I hold a **BSc in Physics, Mathematics and Geology** from DBS PG College, Dehradun.
+
+My work focuses on analysing data, building dashboards, identifying trends and communicating findings in a clear and practical way.
+
+I am currently seeking an **entry-level Data Analyst opportunity** where I can apply my analytical skills and continue growing through real-world data problems.
+
+</td>
+
+<td width="40%" valign="top">
+
+## Profile
+
+📍 **Dehradun, India**
+
+🎓 **BSc — Physics, Mathematics & Geology**
+
+📊 **Aspiring Data Analyst**
+
+💼 **Open to Entry-Level Opportunities**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧭 Portfolio
+
+<div align="center">
+
+| | |
+|---|---|
+| 📊 **Featured Project** | [Horizon Stores Excel Dashboard](https://github.com/bharat-ram17/horizon-stores-excel-dashboard) |
+| 🧰 **Primary Tools** | Excel • SQL • Power BI • Python |
+| 🎯 **Focus** | Data Analysis • Visualization • Business Insights |
+| 🔗 **LinkedIn** | [Connect with me](https://www.linkedin.com/in/bharat-ram-54b936390) |
 
 </div>
 
 ---
 
-## About Me
-
-I am an **Aspiring Data Analyst** focused on building practical skills in data analysis, visualization and business-oriented problem solving.
-
-I hold a **BSc in Physics, Mathematics and Geology** from DBS PG College, Dehradun, and I am building my career in Data Analytics.
-
-My current focus is on using **Excel, SQL, Power BI, Python and Generative AI** to analyse data, create dashboards and communicate meaningful insights.
-
-I am particularly interested in transforming data into **clear analysis, useful visualizations and actionable business insights**.
-
-> I am currently seeking an **entry-level Data Analyst opportunity** where I can apply my analytical skills, continue learning and contribute to data-driven decision making.
-
----
-
-## Skills & Tools
+# 🛠️ Skills & Technologies
 
 ### Data Analytics
 
-<p>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL-Intermediate-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+
+</div>
+
+<br>
 
 ### Programming & AI
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Generative%20AI-Intermediate-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI">
-</p>
+<div align="center">
 
-### Analytics Skills
+<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+&nbsp;
+<img src="https://img.shields.io/badge/Generative%20AI-Intermediate-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI">
 
-- Data Analysis
-- Data Visualization
-- Dashboard Development
-- Data Cleaning
-- Basic Statistics
-- Business-focused Analysis
-- Analytical & Problem-Solving Skills
+</div>
+
+<br>
+
+### Analytics Capabilities
+
+<div align="center">
+
+`Data Analysis` &nbsp; `Data Visualization` &nbsp; `Dashboard Development`
+
+`Data Cleaning` &nbsp; `Basic Statistics` &nbsp; `Business Analysis`
+
+</div>
 
 ---
 
-## Featured Project
+# 📊 Featured Project
 
-### Horizon Stores — Excel Sales Dashboard
+## Horizon Stores — Sales Performance Dashboard
 
-**Tools:** Microsoft Excel, PivotTables, PivotCharts, Slicers, Excel formulas
+<table>
+<tr>
+<td width="65%" valign="top">
 
-An interactive sales dashboard built to analyse sales performance, profitability, customers, products, regions and discounts.
+### Interactive Excel Dashboard
 
-**Key areas covered:**
-- Executive Sales Dashboard
+A multi-page interactive dashboard designed to analyse sales performance, profitability, customers, products, regions and discount behaviour.
+
+The project combines **Excel-based analysis, interactive dashboards, business questions and recommendations** to demonstrate practical data analytics skills.
+
+### Analysis Areas
+
+- Executive Sales Performance
 - Regional & Customer Analysis
 - Product & Category Analysis
 - Discount & Profitability Analysis
 - Business Q&A
 - Insights & Recommendations
 
-**Repository:**  
-[View Horizon Stores Project →](https://github.com/bharat-ram17/horizon-stores-excel-dashboard)
+### Tools
+
+**Microsoft Excel**  
+PivotTables • PivotCharts • Slicers • Excel Formulas
+
+<br>
+
+<a href="https://github.com/bharat-ram17/horizon-stores-excel-dashboard">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+</a>
+
+</td>
+
+<td width="35%" valign="top">
+
+### Project Highlights
+
+**4 Years**  
+2014 — 2017
+
+**5 Core KPIs**  
+Sales • Profit • Margin • Orders • Quantity
+
+**6 Dashboard Areas**  
+Executive → Insights
+
+**Interactive Controls**  
+Year • Region • Segment • Category
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What I Bring
+<details>
+<summary><b>🔎 Explore the Horizon Stores project</b></summary>
 
-- Strong foundation in **Excel and dashboard development**
-- Practical experience with **SQL-based data analysis**
-- Experience creating **Power BI dashboards**
-- Growing capability in **Python for data analytics**
-- Experience using **Generative AI to support analytical workflows**
-- Analytical thinking developed through a background in **Physics and Mathematics**
-- Focus on presenting analysis in a clear and understandable way
+<br>
+
+The project was designed around a practical business scenario where management needs to understand sales performance and profitability.
+
+### Key Business Questions
+
+- How are sales and profit performing over time?
+- Which regions and customer segments contribute most?
+- Which products and categories perform well?
+- How does discounting affect profitability?
+- Where are the major opportunities and concerns?
+- What actions could management consider?
+
+### Project Deliverables
+
+- Interactive Excel workbook
+- Executive dashboard
+- Regional & customer analysis
+- Product & category analysis
+- Discount & profitability analysis
+- Business Q&A
+- Insights & recommendations
+
+<br>
+
+**[Open the complete project repository →](https://github.com/bharat-ram17/horizon-stores-excel-dashboard)**
+
+</details>
 
 ---
 
-## GitHub Statistics
+# 📈 What I Work With
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📊 Analyse
+
+Excel  
+SQL / MySQL  
+Data Cleaning  
+Basic Statistics
+
+</td>
+
+<td width="33%" align="center">
+
+### 📉 Visualize
+
+Power BI  
+Excel Dashboards  
+Charts  
+KPIs
+
+</td>
+
+<td width="33%" align="center">
+
+### 💡 Communicate
+
+Business Questions  
+Insights  
+Recommendations  
+Data Storytelling
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Professional Strengths
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Analytical Thinking
+
+My academic background in **Physics and Mathematics** has developed my interest in structured problem solving, logical reasoning and working with quantitative information.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Practical Approach
+
+I focus on understanding the question behind the data, analysing relevant information and presenting findings in a way that is easy to understand.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Education
+
+### Bachelor of Science
+
+**Physics • Mathematics • Geology**
+
+**DBS PG College, Dehradun**
+
+**Graduated — 2022**
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bharat-ram17&show_icons=true&hide_border=true&rank_icon=github" alt="Bharat Ram's GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=bharat-ram17&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics">
+
+&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-ram17&layout=compact&hide_border=true" height="170" alt="Top Languages">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=bharat-ram17&hide_border=true" alt="Bharat Ram's GitHub streak">
+<img src="https://streak-stats.demolab.com?user=bharat-ram17&hide_border=true" alt="GitHub Contribution Streak">
 
 </div>
 
 ---
 
-## Education
+# 🤝 Let's Connect
 
-**Bachelor of Science — Physics, Mathematics & Geology**  
-DBS PG College, Dehradun  
-**Graduated: 2022**
+<div align="center">
 
----
+I'm interested in connecting with **recruiters, data professionals and fellow learners** in the Data Analytics and Business Intelligence space.
 
-## Let's Connect
+<br>
 
-I am open to connecting with professionals, recruiters and fellow data enthusiasts interested in **Data Analytics, Business Intelligence and data-driven problem solving**.
+<a href="https://www.linkedin.com/in/bharat-ram-54b936390">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<p>
-  <a href="https://www.linkedin.com/in/bharat-ram-54b936390">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:bharatramabcd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bharatramabcd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+&nbsp;
+
+<a href="mailto:bharatramabcd@gmail.com">
+<img src="https://img.shields.io/badge/Email-bharatramabcd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile.
+### Bharat Ram
 
-**Bharat Ram | Aspiring Data Analyst**
+**Aspiring Data Analyst**
+
+*Data • Insights • Decisions*
+
+<br>
+
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
